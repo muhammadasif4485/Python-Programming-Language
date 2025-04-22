@@ -51,6 +51,8 @@ For additional learning, check out the highly recommended book:
 
 This book offers a hands-on, project-based approach to mastering Python programming.
 
+![Python Crash Course by Eric Matthes](https://github.com/user-attachments/assets/54ebd08a-1973-458c-b1b3-ff7c50492bf1)
+
 ---
 
 ### 🔹 **What is Programming?**
