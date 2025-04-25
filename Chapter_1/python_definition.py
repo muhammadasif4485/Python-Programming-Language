@@ -6,7 +6,7 @@ These instructions are written in a programming language like Python, Java, C++,
 Think of it like this:
 
 Programming is how humans "talk" to computers to make them do what we want.
-      """)
+""")
 
 
 print("""
@@ -46,6 +46,4 @@ Huge job demand – Widely used in the tech industry.
 Rich ecosystem – Tons of libraries & frameworks (e.g., NumPy, Pandas, Django, Flask, TensorFlow).
 
 Strong community – Massive global support & tutorials.
-
-
 """)
