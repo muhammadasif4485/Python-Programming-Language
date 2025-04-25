@@ -54,7 +54,7 @@ This book offers a hands-on, project-based approach to mastering Python programm
 ![Python Crash Course by Eric Matthes](https://github.com/user-attachments/assets/54ebd08a-1973-458c-b1b3-ff7c50492bf1)
 
 Please use the link below to access and download the Python book free of charge via Google Drive 
- [**Python Crash Course by Eric Matthes**](https://drive.google.com/file/d/1nZc0HqA2MEiPl4Dy8IA9KLjnnEpy3W4Q/view?usp=sharing)
+ [**Python  book free**](https://drive.google.com/file/d/1nZc0HqA2MEiPl4Dy8IA9KLjnnEpy3W4Q/view?usp=sharing)
 
 ---
 
