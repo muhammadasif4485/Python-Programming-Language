@@ -1,16 +1,16 @@
 print("""
-💡What is Programming?
+What is Programming?
 Programming is the process of giving instructions to a computer to perform specific tasks. 
 These instructions are written in a programming language like Python, Java, C++, etc.
 
 Think of it like this:
 
-💬Programming is how humans "talk" to computers to make them do what we want.
+Programming is how humans "talk" to computers to make them do what we want.
       """)
 
 
 print("""
-💡What is Python?
+What is Python?
 Python is a high-level, interpreted programming language that is known for its simplicity, readability, and versatility. It was created by Guido van Rossum and released in 1991.
 
 It's used in a wide range of fields like:
