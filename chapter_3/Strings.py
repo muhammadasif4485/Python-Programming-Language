@@ -11,3 +11,14 @@ Python treats each character in the string as a separate element, which means yo
 and analyze individual characters or groups of characters within a string.
 
 """)
+
+print(''' 
+Because most programs define and gather some sort of data and then do something useful with it, 
+it helps to classify different types of data. The first data type we’ll look at is the string. 
+Strings are quite simple at first glance, but you can use them in many different ways.
+A string is a series of characters. Anything inside quotes is considered a string in Python, 
+and you can use single or double quotes around your strings like this:
+
+"This is a string."
+'This is also a string.'
+    ''')
