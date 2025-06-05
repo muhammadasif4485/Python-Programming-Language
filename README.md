@@ -14,6 +14,8 @@ To get started, download and install the latest version of Python from the offic
 Make sure to check the option **"Add Python to PATH"** during installation.
 
 ---
+## Python is the most widely used programming language in 2024
+
 ![top-python](https://github.com/user-attachments/assets/8851a0c3-aaec-40d4-b3f3-c12a02b630c0)
 
 ## Why Learn Python?
